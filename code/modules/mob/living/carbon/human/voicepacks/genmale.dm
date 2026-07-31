@@ -101,6 +101,12 @@
 					used = 'sound/vo/male/wilhelm_scream.ogg'
 			if("shh")
 				used = 'sound/vo/male/gen/shh.ogg'
+			if("shiver")
+				used = 'sound/vo/shiver.ogg'
+			if("sneeze")
+				used = 'sound/vo/male/male_sneeze.ogg'
+			if("flap")
+				used = 'sound/foley/footsteps/flight_sounds/wingflap1.ogg'
 			if("sigh")
 				used = 'sound/vo/male/gen/sigh.ogg'
 			if("snore")
@@ -179,8 +185,12 @@
 				used = 'sound/vo/moth/mothchitter.ogg'
 			if("strain")
 				used = 'sound/vo/male/gen/strain.ogg'
+			if("moan")
+				used = list('sound/vo/male/gen/sound_vo_male_gen_moan (1).ogg','sound/vo/male/gen/sound_vo_male_gen_moan (2).ogg','sound/vo/male/gen/sound_vo_male_gen_moan (3).ogg')
 			if("yip")
 				used = list('sound/vo/yip.ogg', 'sound/vo/yip2.ogg', 'sound/vo/yip3.ogg')
+			if("yap")
+				used = 'sound/vo/yap.ogg'
 			if("oink")
 				used = list('modular/Creechers/sound/pig1.ogg', 'modular/Creechers/sound/pig2.ogg')
 			if("sexmoanlight")
