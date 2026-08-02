@@ -3188,6 +3188,7 @@
 #include "code\modules\spells\spell_types\classunique\vizier\diminish.dm"
 #include "code\modules\spells\spell_types\classunique\vizier\restoration.dm"
 #include "code\modules\spells\spell_types\classunique\vizier\reversion.dm"
+#include "code\modules\spells\spell_types\divine\holy_strike.dm"
 #include "code\modules\spells\spell_types\divine\psydonite_blast.dm"
 #include "code\modules\spells\spell_types\divine\projectiles_single\divine_blast.dm"
 #include "code\modules\spells\spell_types\divine\projectiles_single\unholy_blast.dm"
